@@ -1,0 +1,11 @@
+- Use LLM API (free ideally?)
+- Match input to best response
+    - Ask LLM subjectively
+- Ensure bad inputs are dealt with nicely
+
+
+
+
+
+Checks:
+- make sure replit works
